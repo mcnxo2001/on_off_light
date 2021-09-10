@@ -16,13 +16,13 @@ body{
     font-size:3rem;
     opacity: 0;
     animation-duration: 0.5s;
-    margin-left: 26rem;
+    margin-left: 27.5rem;
     margin-top: 30rem;
     text-shadow: 0px 2px 20px rgb(122, 116, 116);
 }
 .lamp{
     text-align: right;
-    margin-right: 11rem;
+    margin-right: 11.5rem;
 }
 .light{
     text-align: right;
